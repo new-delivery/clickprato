@@ -28,8 +28,8 @@ const features = [
   },
   {
     icon: BarChart3,
-    title: "Relatórios Completos",
-    description: "Acompanhe suas vendas, produtos mais vendidos e muito mais.",
+    title: "Relatórios Avançados",
+    description: "Perfeito para agências de marketing entenderem o comportamento dos clientes no cardápio",
   },
   {
     icon: Bell,
