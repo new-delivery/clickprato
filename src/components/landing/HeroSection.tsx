@@ -56,7 +56,7 @@ const HeroSection = () => {
                 size="xl"
                 asChild
               >
-                <a href="https://clickprato.codclick.com.br" target="_blank" rel="noopener noreferrer">
+                <a href="https://clickprato-top.vercel.app" target="_blank" rel="noopener noreferrer">
                   Ver Demonstração
                   <ArrowRight className="w-5 h-5 ml-2" />
                 </a>
